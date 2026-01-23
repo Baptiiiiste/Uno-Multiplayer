@@ -1,6 +1,6 @@
 package fr.baptiiiiste.game.managers;
 
-import fr.baptiiiiste.game.entities.Player;
+import fr.baptiiiiste.game.models.Player;
 
 import java.util.ArrayList;
 import java.util.List;

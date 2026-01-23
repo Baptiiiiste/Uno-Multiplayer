@@ -1,8 +1,8 @@
 package fr.baptiiiiste.game.renderers;
 
-import fr.baptiiiiste.game.entities.Card;
-import fr.baptiiiiste.game.entities.ClassicCard;
-import fr.baptiiiiste.game.entities.WildCard;
+import fr.baptiiiiste.game.models.Card;
+import fr.baptiiiiste.game.models.ClassicCard;
+import fr.baptiiiiste.game.models.WildCard;
 import fr.baptiiiiste.game.enums.Color;
 
 public class TerminalCardRenderer {

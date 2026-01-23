@@ -1,4 +1,4 @@
-package fr.baptiiiiste.game.entities;
+package fr.baptiiiiste.game.models;
 
 import fr.baptiiiiste.game.renderers.LogRenderer;
 import fr.baptiiiiste.game.renderers.TerminalCardRenderer;

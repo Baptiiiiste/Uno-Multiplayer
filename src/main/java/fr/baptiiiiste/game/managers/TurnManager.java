@@ -1,7 +1,7 @@
 package fr.baptiiiiste.game.managers;
 
-import fr.baptiiiiste.game.entities.Card;
-import fr.baptiiiiste.game.entities.Player;
+import fr.baptiiiiste.game.models.Card;
+import fr.baptiiiiste.game.models.Player;
 import fr.baptiiiiste.game.enums.Color;
 import fr.baptiiiiste.game.renderers.LogRenderer;
 import fr.baptiiiiste.game.renderers.TerminalCardRenderer;
